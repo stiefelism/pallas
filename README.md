@@ -3,3 +3,4 @@
 # próba böngésző
 # konfliktus
 # próba branch
+# pallas
